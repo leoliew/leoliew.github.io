@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "SSH与非对称（密钥）加密"
-date:   2016-09-20 17:36:57 +0800
+title:  "sails.js框架常用设置"
 categories: linux ssh
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
